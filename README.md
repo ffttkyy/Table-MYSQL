@@ -16,5 +16,5 @@ Di dalam database perpustakaan terdapat table-table diantaranya :
   
   </ul>
   <h4>Data Pada Table</h4>
-  <img src=" " alt="Dat Rak">
-  <p>Data pada Rak Table terdapat 5 data</p>
+  <img src="https://github.com/ffttkyy/Table-MYSQL/blob/548b13d14b8964707911003cafb89fc6b1e659b7/Pict/Data_rak.jpg" alt="Dat Rak">
+  Data pada Rak Table terdapat 5 data
